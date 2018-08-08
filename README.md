@@ -2,7 +2,7 @@
 
 - This project provides the slim build of OpenCv library for the **Android**, **Windows** and **ARM Linux** platforms.
 
-- Currently there're binary packages for OpenCv **2.4.13.7**.
+- Currently there're binary packages for OpenCv **2.4.13.7** and **3.4.20**.
 
 # Size
 |package|size|
@@ -11,6 +11,10 @@
 |OpenCvSlim-2.4.13.7-armlinux.zip (aarch64,arm-linux-gnueabi,arm-linux-gnueabihf)| 7.9MB |
 |OpenCvSlim-2.4.13.7-win-vs2015.zip (x64,x86)| 6.7MB |
 |OpenCvSlim-2.4.13.7-win-vs2017.zip (x64,x86)| 6.9MB |
+|OpenCvSlim-3.4.20-android.zip (arm64,armeabi,x64,x86)| 16.4MB |
+|OpenCvSlim-3.4.20-armlinux.zip (aarch64,arm-linux-gnueabi,arm-linux-gnueabihf)| 14.4MB |
+|OpenCvSlim-3.4.20-win-vs2015.zip (x64,x86)| 14.8MB |
+|OpenCvSlim-3.4.20-win-vs2017.zip (x64,x86)| 15.4MB |
 
 
 # Tips
