@@ -9,12 +9,16 @@
 |---|---|
 |OpenCvSlim-2.4.13.7-android.zip (arm64,armeabi,x64,x86)| 8.2MB |
 |OpenCvSlim-2.4.13.7-armlinux.zip (aarch64,arm-linux-gnueabi,arm-linux-gnueabihf)| 7.9MB |
+|OpenCvSlim-2.4.13.7-webassembly.zip (basic,simd,simd-threads)| 6.2MB |
 |OpenCvSlim-2.4.13.7-win-vs2015.zip (x64,x86)| 6.7MB |
 |OpenCvSlim-2.4.13.7-win-vs2017.zip (x64,x86)| 6.9MB |
+|OpenCvSlim-2.4.13.7-win-vs2019.zip (x64,x86)| 7.5MB |
 |OpenCvSlim-3.4.20-android.zip (arm64,armeabi,x64,x86)| 16.4MB |
 |OpenCvSlim-3.4.20-armlinux.zip (aarch64,arm-linux-gnueabi,arm-linux-gnueabihf)| 14.4MB |
+|OpenCvSlim-3.4.20-webassembly.zip (basic,simd,simd-threads)| 11.2MB |
 |OpenCvSlim-3.4.20-win-vs2015.zip (x64,x86)| 14.8MB |
 |OpenCvSlim-3.4.20-win-vs2017.zip (x64,x86)| 15.4MB |
+|OpenCvSlim-3.4.20-win-vs2017.zip (x64,x86)| 15.9MB |
 
 
 # Tips
@@ -27,12 +31,14 @@
 
 |module|note|
 |---|---|
-|opencv_core|Mat, matrix operations|
-|opencv_imgproc|resize, cvtColor, warpAffine|
-|opencv_highgui|imread, imwrite|
-|opencv_features2d|keypoint feature and matcher|
-|opencv_photo|inpaint|
-|opencv_video|opticalflow|
+|opencv_core|Mat, matrix operations ...|
+|opencv_imgproc|resize, cvtColor, warpAffine, HoughLines, erode ...|
+|opencv_highgui|imread, imwrite, imdecode, imencode ...|
+|opencv_features2d|keypoint feature and matcher ...|
+|opencv_photo|inpaint , fastNlMeansDenoising ...|
+|opencv_video|opticalflow, KalmanFilter  ...|
+
+- you can get more details in head file within directory of **opencv2** .
 
 
 # Usage Android
