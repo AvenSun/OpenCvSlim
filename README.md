@@ -4,7 +4,7 @@
 
 - Currently there're binary packages for OpenCv **2.4.13.7** and **3.4.20**.
 
-# OpenCvSlim Size
+# Size Details
 |package|size|
 |---|---|
 |OpenCvSlim-2.4.13.7-android.zip (arm64,armeabi,x64,x86)| 8.2MB |
