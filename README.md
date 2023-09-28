@@ -2,7 +2,7 @@
 
 - This project provides the slim build of OpenCv library for the **Android**, **Windows** and **ARM Linux** platforms.
 
-- Currently there're binary packages for OpenCv **2.4.13.7** and **3.4.20**.
+- Currently there're binary packages for OpenCv **2.4.13.7** , **3.4.20**  and **4.8.1**.
 
 # Size Details
 |package|size|
